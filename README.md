@@ -12,13 +12,13 @@ How It Works:
 
 Equipment Used:
 
-1. Arduino
+1. Arduino 
 2. Flex Sensors
 3. Breadboard
 4. 16x2 Display
 5. Potentiometer
 6. Resistance
-7. Wires
+7. Connecting Wires
 
 # How It Works:
 
